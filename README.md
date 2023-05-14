@@ -9,6 +9,13 @@ to find the best weights.
 - Numpy
 - Pygame
 
+# How to Run
+
+```
+python src/game.py --top 3 --population 400
+
+```
+
 # Next steps
 - Improve the code base
 - Improve the NN to somenthing from the state of art (Maybe Q-learning)
