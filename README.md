@@ -1,4 +1,4 @@
-# Google Dinosaur AI-clone
+# Google Dinosaur Mimic
 
 This repository contains a clone of the Google dinosaur game, powered by an AI to play the game
 At the moment the AI is a simple NN (Neural Network) with some of genetic algorithms techniques 
